@@ -143,5 +143,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For queries, contact the project maintainer:
-- **Name**: Rohit Kannan
-- **Email**: rohitmn482@gmail.com
+- **Name**: Manoj M J
+- **Email**: manojmageesha@gamil.com
